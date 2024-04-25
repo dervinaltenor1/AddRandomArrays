@@ -1,0 +1,14 @@
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/bin/Debug/net8.0/AddRandomArrays
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/bin/Debug/net8.0/AddRandomArrays.deps.json
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/bin/Debug/net8.0/AddRandomArrays.runtimeconfig.json
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/bin/Debug/net8.0/AddRandomArrays.dll
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/bin/Debug/net8.0/AddRandomArrays.pdb
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.AssemblyInfoInputs.cache
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.AssemblyInfo.cs
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.csproj.CoreCompileInputs.cache
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.dll
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/refint/AddRandomArrays.dll
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.pdb
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/AddRandomArrays.genruntimeconfig.cache
+/Users/dervinaltenor/RiderProjects/AddRandomArrays/AddRandomArrays/obj/Debug/net8.0/ref/AddRandomArrays.dll
